@@ -73,10 +73,15 @@ AI가 이를 분석하여 **양육 상태를 모니터링**합니다.
 
 | 이름 | 사진 | 역할 | 주요 담당 |
 |------|------|------|------------|
-| 이윤서 |![스크린샷 2025-04-09 153953](https://github.com/user-attachments/assets/36ff8a40-7bd2-4504-ac65-c65909c70eb7)| 백엔드 | 서버, DB 구축 및 연동 |
-| 김지은 |![스크린샷 2025-04-09 154308](https://github.com/user-attachments/assets/ea3dc3c9-9253-4309-83fb-ae5408780cc9)| 크리에이티 | UI 디자인, 콘텐츠 제작, 기획|
-| 오인우 |![스크린샷 2025-04-09 154318](https://github.com/user-attachments/assets/8bb3abab-0efa-4784-8eb4-90b4b220497a)| 프론트엔드 | 앱 인터페이스, 사용자 기능 구현 |
-| 지소명 | ![image](https://github.com/user-attachments/assets/9eaa385a-ac4f-43f0-a840-27e3609abd2e)| 프론트엔드 | 화면 구성, 상태 관리, 연결 테스트 |
+| 이윤서 | <img src="<img width="480" height="480" alt="KakaoTalk_20250926_165244684" src="https://github.com/user-attachments/assets/b22b076e-39d5-4a00-97a3-b39c8cee96eb" />
+" width="120"/> | 백엔드 | 서버, DB 구축 및 연동 |
+| 김지은 | <img src="<img width="480" height="480" alt="KakaoTalk_20250926_170322408" src="https://github.com/user-attachments/assets/6d82ec56-a240-4331-9c6f-b422d3e11554" />
+" width="120"/> | 크리에이티 | UI 디자인, 콘텐츠 제작, 기획 |
+| 오인우 | <img src="<img width="602" height="623" alt="KakaoTalk_20250926_165449702" src="https://github.com/user-attachments/assets/a36e0b4a-0b30-415d-a3e2-0a2dce4b43d6" />
+" width="120"/> | 프론트엔드 | 앱 인터페이스, 사용자 기능 구현 |
+| 지소명 | <img src="<img width="480" height="480" alt="KakaoTalk_20250926_165524159" src="https://github.com/user-attachments/assets/d5dd7678-a590-4211-a00e-34cb8a51ba63" />
+" width="120"/> | 프론트엔드 | 화면 구성, 상태 관리, 연결 테스트 |
+
 
 
 
